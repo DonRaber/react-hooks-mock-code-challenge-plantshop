@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Young Cannabis Indica",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_N0U7dcXAt4R1VBLyx8A-Sgo4f1HpRqIGw&usqp=CAU",
+      "price": "25.00",
+      "id": 8
     }
   ]
 }
